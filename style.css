@@ -301,25 +301,7 @@ section.about p {
     margin-bottom: 1rem;
 }
 
-section.about .container .read-more-content {
-    display: none;
-}
-/* toggle read more content using js */
-section.about .container .read-more-content.show-content{
-    display: block;
-}
 
-
-section.about .container .read-more {
-    display: block;
-    margin: 1rem 0 2rem;
-    color: var(--color-primary);
-    cursor: pointer;
-}
-
-section.about .container .read-more:hover {
-    text-decoration: underline;
-}
 
 /*----------------skills-section----------------*/
 section.skills .container {
