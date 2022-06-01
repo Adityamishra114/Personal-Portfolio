@@ -372,20 +372,20 @@ section.skills .item .progress-bar {
 
 section.skills .item .progress-bar .progress {
     height: 100%;
-    width: 90%;
+    width: 80%;
     background: var(--color-primary);
 }
 
 section.skills .item:nth-child(2) .progress-bar .progress {
-    width: 80%;
+    width: 70%;
 }
 
 section.skills .item:nth-child(3) .progress-bar .progress {
-    width: 90%;
+    width: 80%;
 }
 
 section.skills .item:nth-child(4) .progress-bar .progress {
-    width: 50%;
+    width: 30%;
 }
 
 /*--------------Services---------*/
