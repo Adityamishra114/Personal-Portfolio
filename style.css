@@ -429,7 +429,7 @@ section.skills .item1 .progress-bar {
 
 section.skills .item1 .progress-bar .progress {
   height: 100%;
-  width: 70%;
+  width: 60%;
   background: var(--color-primary);
 }
 section.skills .skill .item2 {
